@@ -1,0 +1,15 @@
+intent,text,entity
+jadwal_hari_ini,Film apa yang tayang hari ini?,
+jadwal_hari_ini,Apa saja jadwal film hari ini?,
+jadwal_hari_tertentu,Film apa yang tayang hari Senin?,hari=Senin
+jadwal_hari_tertentu,Jadwal bioskop hari Selasa apa saja?,hari=Selasa
+jadwal_hari_tertentu,Film di bioskop hari Rabu?,hari=Rabu
+jadwal_hari_tertentu,Apa film hari Kamis?,hari=Kamis
+jadwal_hari_tertentu,Jadwal tayang bioskop hari Jumat?,hari=Jumat
+jadwal_hari_tertentu,Film bioskop hari Sabtu?,hari=Sabtu
+jadwal_hari_tertentu,Apa saja film hari Minggu?,hari=Minggu
+film_berdasarkan_genre,Film animasi apa yang tayang?,genre=Animasi
+film_berdasarkan_genre,Ada film aksi hari ini?,genre=Aksi
+film_berdasarkan_lokasi,Film di CGV Grand Indonesia apa?,lokasi=CGV Grand Indonesia
+film_berdasarkan_lokasi,Apa saja film di XXI Plaza Indonesia?,lokasi=XXI Plaza Indonesia
+film_berdasarkan_lokasi,Tayangan di Cinepolis FX Sudirman apa?,lokasi=Cinepolis FX Sudirman
